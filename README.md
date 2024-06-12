@@ -25,6 +25,5 @@ In the folder of an LVM project you downloaded, you will add the following to th
         "STORE_URL": "https://josephanimate2021.github.io/GA4SAssets/store/3a981f5cb2739137",
         "CLIENT_URL": "https://josephanimate2021.github.io/GA4SAssets/static/ad44370a650793d9"
 }
-
 ```
 That's pretty much it. Please report any issues in the Issues panel if you are experiencing bugs with this asset server (that is to be expected)
